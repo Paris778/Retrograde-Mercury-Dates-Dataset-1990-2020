@@ -25,7 +25,7 @@ The present dataset consists of two features those being:
   
 isRetrograde has a value of 1 (one) when mercury was in retrograde during the respective date and 0 (zero) when it was following a normal course.
 
-## How to Use Example (Python 3)
+## Usage Example (Python 3)
 
 ##### 1. Download Dataset
 ##### 1.5. Set up a virtual environment (Anaconda / MiniConda for Python) 
@@ -36,8 +36,7 @@ isRetrograde has a value of 1 (one) when mercury was in retrograde during the re
   - matplotlib
   
 ##### 3. Load dataset
-
-<python> 
+```python
 # Imports
 import pandas as pd
 import datetime
@@ -49,7 +48,7 @@ import matplotlib.pyplot as plt
 
 file_path = (inset path here)
 df_short = pd.read_csv(file_path)
-</python>
+```
 ## 
 
 #### References

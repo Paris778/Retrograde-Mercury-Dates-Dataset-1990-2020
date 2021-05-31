@@ -6,15 +6,27 @@ This is public dataset compiled by Paraskevas Solomou listing all periods during
 
 This dataset was created in order to encourage Astology related research. 
 
-## Dataset Description
+## Dataset Overview
 
 The retrograde mercury period dataset was compiled manually using an open source restful API [1] exclusively for the needs of this project. A python script was developed which repeatedly sent remote requests to the API and documented the results in a CSV format.
 That API unfortunately, could not provide data regarding the retrograde periods prior to 2016, therefore all the retrograde periods from January 1990 to December 2015, had to be inserted semi-manually. The dates of the retrograde periods found online at [2] were inserted into a script which compiled a new dataset in the same format as the one made using the API, in order to compensate for the missing data. 
 
 It was also found that various sources listed different dates regarding the start and end of any given mercury retrograde period during the years this project is concerned with. After intense analysis and the crossing over of information from various famous astrology sources [1,2,3] with the final mercury retrograde dataset, it was determined that an additional 3% uncertainty will be introduced to the results of this project in order to compensate for this great variance and inconsistency among data sources. 
-The final retrograde mercury dataset is made publicly available at [3] in order to encourage further research and discussion. A separate report was written explaining the dataset and how it was created which can be found at Appendix I. 
+The final retrograde mercury dataset is made publicly available at [3] in order to encourage further research and discussion. 
 
-## How to Use Example 
+## Dataset Description
+
+The present dataset consists of two features those being: 
+
+- Date         | date format (dd/mm/yyyy)
+- isRetrograde | boolean (0 or 1) 
+
+isRetrograde has a value of 1 (one) when mercury was in retrograde during the respective date and 0 (zero) when it was following a normal course.
+
+## How to Use Example (Python 3)
+
+##### 1. Download Dataset
+##### 2. Load dataset
 
 ## 
 

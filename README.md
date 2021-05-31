@@ -21,6 +21,7 @@ The final retrograde mercury dataset is made publicly available at [12] in order
 #### References
 
 [9] Anon, Mercury Retrograde API. Available at: https://mercuryretrogradeapi.com/about.html [Accessed May 23, 2021]. 
+
 [10] Anon, Free Horoscopes & Astrology online: Astro-Seek.com. Astro. Available at: https://horoscopes.astro-seek.com/ [Accessed May 23, 2021]. 
 
 [11] 

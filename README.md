@@ -18,7 +18,7 @@ The final retrograde mercury dataset is made publicly available at [3] in order 
 
 The present dataset consists of two features those being: 
 
-- Date         | date format (dd/mm/yyyy)
+- Date         | date format (yyyy/mm/dd)
 - isRetrograde | boolean (0 or 1) 
 
 isRetrograde has a value of 1 (one) when mercury was in retrograde during the respective date and 0 (zero) when it was following a normal course.

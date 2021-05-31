@@ -18,16 +18,38 @@ The final retrograde mercury dataset is made publicly available at [3] in order 
 
 The present dataset consists of two features those being: 
 
-- Date         | date format (yyyy/mm/dd)
+- DATE         | date format (yyyy/mm/dd)
 - isRetrograde | boolean (0 or 1) 
-
+- 
+<picture> 
+  
 isRetrograde has a value of 1 (one) when mercury was in retrograde during the respective date and 0 (zero) when it was following a normal course.
 
 ## How to Use Example (Python 3)
 
 ##### 1. Download Dataset
-##### 2. Load dataset
+##### 1.5. Set up a virtual environment (Anaconda / MiniConda for Python) 
+  Tutorial: https://katiekodes.com/setup-python-windows-miniconda/
 
+  ##### 2. Download Dependencies
+  - pandas
+  - matplotlib
+  
+##### 3. Load dataset
+
+<python> 
+# Imports
+import pandas as pd
+import datetime
+import matplotlib.pyplot as plt
+
+########################################################
+# Load dataset 
+########################################################
+
+file_path = (inset path here)
+df_short = pd.read_csv(file_path)
+</python>
 ## 
 
 #### References

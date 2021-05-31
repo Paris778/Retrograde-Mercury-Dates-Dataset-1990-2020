@@ -25,8 +25,8 @@ The present dataset consists of two features those being:
   
 isRetrograde has a value of 1 (one) when mercury was in retrograde during the respective date and 0 (zero) when it was following a normal course.
 
-##### Graphical Representation 2018-2020
-![Alt text](https://github.com/Paris778/Retrograde-Mercury-Dates-Dataset-1990-2020/blob/main/screenshots/mercury_2018-2020_periods.png "Graph")
+##### Graphical Representation 2018
+![Alt text](https://github.com/Paris778/Retrograde-Mercury-Dates-Dataset-1990-2020/blob/main/screenshots/2018_mercury.png "Graph")
 ## Usage Example (Python 3)
 
 ##### 1. Download Dataset

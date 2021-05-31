@@ -41,15 +41,13 @@ isRetrograde has a value of 1 (one) when mercury was in retrograde during the re
 ```python
 # Imports
 import pandas as pd
-import datetime
-import matplotlib.pyplot as plt
 
 ########################################################
 # Load dataset 
 ########################################################
 
 file_path = (inset path here)
-dataframe = pd.read_csv(file_path)
+df = pd.read_csv(file_path)
 ```
 ## 
 

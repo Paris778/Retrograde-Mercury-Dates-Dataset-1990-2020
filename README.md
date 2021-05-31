@@ -1,4 +1,4 @@
-# Retrograde Mercury Dates-Dataset 1990-2020
+# Retrograde Mercury Dates Dataset 1990-2020
 
 This is public dataset compiled by Paraskevas Solomou listing all periods during which the planet Mercury followed a retrograde course (according to Astrology) between January 1st 1990 and December 31st 2020
 

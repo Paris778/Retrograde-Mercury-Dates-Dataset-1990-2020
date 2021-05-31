@@ -47,7 +47,7 @@ import matplotlib.pyplot as plt
 ########################################################
 
 file_path = (inset path here)
-df_short = pd.read_csv(file_path)
+dataframe = pd.read_csv(file_path)
 ```
 ## 
 

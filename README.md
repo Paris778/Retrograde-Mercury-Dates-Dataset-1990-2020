@@ -4,7 +4,7 @@ This is public dataset compiled by Paraskevas Solomou listing all periods during
 
 ## Dataset Aim
 
-This dataset was created in order to encourage Astology related research. 
+This dataset was created in order to encourage Astrology related research. 
 
 ## Dataset Overview
 

@@ -20,11 +20,13 @@ The present dataset consists of two features those being:
 
 - DATE         | date format (yyyy/mm/dd)
 - isRetrograde | boolean (0 or 1) 
-- 
-<picture> 
+
+![Alt text](https://github.com/Paris778/Retrograde-Mercury-Dates-Dataset-1990-2020/blob/main/screenshots/dataset_example.JPG "Example Data")
   
 isRetrograde has a value of 1 (one) when mercury was in retrograde during the respective date and 0 (zero) when it was following a normal course.
 
+##### Graphical Representation 2018-2020
+![Alt text](https://github.com/Paris778/Retrograde-Mercury-Dates-Dataset-1990-2020/blob/main/screenshots/mercury_2018-2020_periods.png "Graph")
 ## Usage Example (Python 3)
 
 ##### 1. Download Dataset

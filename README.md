@@ -61,4 +61,5 @@ df = pd.read_csv(file_path)
 
 [12] Solomou, Paraskevas, Paris778/Retrograde-Mercury-Dates-Dataset-1990-2020. GitHub. Available at: https://github.com/Paris778/Retrograde-Mercury-Dates-Dataset-1990-2020
 
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

@@ -24,7 +24,7 @@ The final retrograde mercury dataset is made publicly available at [12] in order
 
 [10] Anon, Free Horoscopes & Astrology online: Astro-Seek.com. Astro. Available at: https://horoscopes.astro-seek.com/ [Accessed May 23, 2021]. 
 
-[11] 
+[11] AstroTwins, 2021. Retrogrades: When Planets Go Backward: Astrostyle: Astrology and Daily, Weekly, Monthly Horoscopes by The AstroTwins. Astrostyle. Available at: https://astrostyle.com/learn-astrology/retrogrades/ [Accessed May 31, 2021]. 
 
 [12] Solomou, Paraskevas, Paris778/Retrograde-Mercury-Dates-Dataset-1990-2020. GitHub. Available at: https://github.com/Paris778/Retrograde-Mercury-Dates-Dataset-1990-2020
 

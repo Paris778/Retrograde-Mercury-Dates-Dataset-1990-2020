@@ -33,7 +33,9 @@ isRetrograde has a value of 1 (one) when mercury was in retrograde during the re
 
   ##### 2. Download Dependencies
   - pandas
-  - matplotlib
+``` bash
+  pip3 install pandas
+```
   
 ##### 3. Load dataset
 ```python

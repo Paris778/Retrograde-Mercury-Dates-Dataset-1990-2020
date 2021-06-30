@@ -15,7 +15,6 @@ That API unfortunately, could not provide data regarding the retrograde periods 
 It was also found that various sources listed different dates regarding the start and end of any given mercury retrograde period during the years this project is concerned with. After intense analysis and the crossing over of information from various famous astrology sources [1,2,3] with the final mercury retrograde dataset, it was determined that a 3% uncertainty will be introduced to the results of this project in order to compensate for this great variance and inconsistency among data sources. 
 The final retrograde mercury dataset is made publicly available at [3] in order to encourage further research and discussion. 
 
-
 ## Dataset Description
 
 

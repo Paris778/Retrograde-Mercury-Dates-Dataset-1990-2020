@@ -6,7 +6,6 @@ This is public dataset compiled by Paraskevas Solomou listing all periods during
 
 This dataset was created in order to encourage Astrology related research. 
 
-
 ## Dataset Overview
 
 The retrograde mercury period dataset was compiled manually using an open source restful API [1] exclusively for the needs of this project. A python script was developed which repeatedly sent remote requests to the API and documented the results in a CSV format.

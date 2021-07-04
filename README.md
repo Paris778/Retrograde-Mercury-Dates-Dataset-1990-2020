@@ -16,7 +16,6 @@ The final retrograde mercury dataset is made publicly available at [3] in order 
 
 ## Dataset Description
 
-
 The present dataset consists of two features those being: 
 
 - DATE         | date format (yyyy/mm/dd)

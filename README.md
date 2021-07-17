@@ -8,7 +8,6 @@ This dataset was created in order to encourage Astrology related research.
 
 ## Dataset Overview
 
-
 The retrograde mercury period dataset was compiled manually using an open source restful API [1] exclusively for the needs of this project. A python script was developed which repeatedly sent remote requests to the API and documented the results in a CSV format.
 That API unfortunately, could not provide data regarding the retrograde periods prior to 2016, therefore all the retrograde periods from January 1990 to December 2015, had to be inserted semi-manually. The dates of the retrograde periods found online at [2] were inserted into a script which compiled a new dataset in the same format as the one made using the API, in order to compensate for the missing data. 
 

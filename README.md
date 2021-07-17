@@ -53,6 +53,7 @@ df = pd.read_csv(file_path)
 ```
 ## 
 
+
 #### References
 
 [1] Anon, Mercury Retrograde API. Available at: https://mercuryretrogradeapi.com/about.html [Accessed May 23, 2021]. 
